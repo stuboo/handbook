@@ -6,65 +6,35 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation.
+# Welcome. We're glad you're here.
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+I love these patients, and I love the work that we do in this specialty. My goal for you is that you leave this rotation with a deeper understanding of what we have to offer urogynecology patients and an appreciation for the ways that we can help them improve their lives through education, medication and operation. - Ryan Stewart
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Expectations](docs/expectations){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Document Templates](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2} [Order Sets](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## The yellow brick road
 
-### Dependencies
+One of the goals of all junior resident subspecialty rotations is to provide you with early exposure to the subspecialty. Early exposure increases the chances of a fellowship match and gives us the opportunity to develop a plan should this be the path you choose. The following sections are not critical for the rotation, but may help you get to know me and the specialty a little better. Hopefully they will provide some insight into why I believe so strongly in the work we do.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+### Why Urogynecology?
 
-### Quick start: Use as a GitHub Pages remote theme
+For me, the decision to be a urogynecologist was largely based upon a couple of different factors. 
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+First, I knew early in medical school that I was interested in ObGyn based on some prior life/work experience. As I began talking to more ObGyns, during rotations and otherwise, I realized that I preferred post-reproductive female patients. Early fourth year medical school exposure to urogynecology later nudged me in this direction. That affinity for post-reproductive patients was affirmed early in my residency, and so I knew pretty early that the decision would be between gynecologic oncology or urogynecology. 
 
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
+Just as "finding my people" in terms of patients was important, "finding my people" in terms of partners was also important. I understood pretty quickly that urogynecologists we're just a little more "my people" than gynecologic oncologists -- nothing against them (of course) or the work they do. It's incredible. We're simply different. 
 
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+Finally, I knew that my post reproductive female patients needed to be mostly healthy and not sick. So it became an easy decision.
 
-### Local installation: Use the gem-based theme
+### What was your path?
 
-1. Install the Ruby Gem
-  ```bash
-  $ gem install just-the-docs
-  ```
-  ```yaml
-  # .. or add it to your your Jekyll site’s Gemfile
-  gem "just-the-docs"
-  ```
+I'm an osteopathic physician who did medical school in southwest Virginia and western North Carolina. I matched at Indiana University for residency and then the University of Louisville for fellowship. There I was trained in all aspects of urogynecologic care including vaginal native tissue repair, laparoscopy, robotics, use of implants (synthetic, autologous, allograft, and xenograft), sacral neuromodulation, intravesical BOTOX and various other treatments. 
 
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-  ```yaml
-  theme: "just-the-docs"
-  ```
-
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-  ```bash
-  $ bundle exec just-the-docs rake search:init
-  ```
-
-3. Run you local Jekyll server
-  ```bash
-  $ jekyll serve
-  ```
-  ```bash
-  # .. or if you're using a Gemfile (bundler)
-  $ bundle exec jekyll serve
-  ```
-
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+I spent two years in private practice after leaving fellowship. During that time, I developed an interest in the business of medicine, revenue cycle management, operational efficiency, and EMR (EPIC) optimization.
 
 ### Configure Just the Docs
 
