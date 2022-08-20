@@ -136,3 +136,12 @@ The following urogynecology-relevant items are taken directly from the [CREOG Le
 - Follow up on ANY pathology for any patient on whom you operated or assisted (this does not mean you have to notify or discuss with the patient)
 
 ## Professional ##
+
+Directly from the [IU School of Medicine list of core competencies](https://medicine.iu.edu/md/curriculum/competencies/professionalism):
+
+Respond to patient needs in a manner that supersedes self-interest, respecting the dignity, privacy and autonomy of the patient, and employing strategies to reduce the effect of one's own beliefs, values, interests, and biases on patient care.
+
+Demonstrate compassion, honesty, integrity, respect, responsibility, and self-discipline in relationships with all individuals, regardless of gender, age, culture, race, ethnicity, religion, sexual orientation, disability, socioeconomic status, native language, or role.
+
+Apply ethical and legal principles governing medical practice; identify, analyze and address unethical and unprofessional behaviors; maintain appropriate boundaries in relationships with patients and colleagues.
+

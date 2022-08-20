@@ -12,7 +12,7 @@ permalink: /
 I love these patients, and I love the work that we do in this specialty. My goal for you is that you leave this rotation with a deeper understanding of what we have to offer urogynecology patients and an appreciation for the ways that we can help them improve their lives through education, medication and operation. - Ryan Stewart
 {: .fs-6 .fw-300 }
 
-[Expectations](docs/expectations){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Document Templates](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2} [Order Sets](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+<!-- [Expectations](docs/expectations){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Document Templates](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2} [Order Sets](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
 ---
 

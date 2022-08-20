@@ -9,5 +9,5 @@ permalink: docs/assets
 # Assets
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+The sections below are simply a respository where I link to articles, books, videos, and other links that _I think_ will help to enhance your learning. If you find resources that you would like me to share with your colleagues, please send them to me and I will add them ASAP.
 {: .fs-6 .fw-300 }
