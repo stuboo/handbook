@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vidoes
+title: Videos
 parent: Assets
 ---
 
@@ -17,5 +17,9 @@ Just the Docs spacing works in conjunction with a variety of modifiers that allo
 | `lg`      | 1120px (70rem) and up                |
 | `xl`      | 1400px (87.5rem) and up              |
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+## Urethral Bulking
+
+[![AUA Core Videos - urethral bulking](https://img.youtube.com/vi/TJju7bTbdLs/hqdefault.jpg)](https://youtu.be/TJju7bTbdLs "AUA Core Videos - urethral bulking") 
+[![Bulkamid Procedure Review](https://img.youtube.com/vi/q7bHaSpgmas/hqdefault.jpg)](https://youtu.be/q7bHaSpgmas "Bulkamid Procedure Review")
 
