@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Books
-parent: Assets
+title: Office
+parent: Expectations
 ---
 
-# Books
+# Learning Objectives
 {: .no_toc }
 
 ## Table of contents
@@ -15,16 +15,47 @@ parent: Assets
 
 ---
 
-All the colors used in Just the Docs have been systematized into a series of variables that have been extended to both font color and background color utility classes.
+CREOG Learning Objectives
+from: https://www.acog.org/-/media/project/acog/acogorg/files/creog/creog-educational-objectives-12th-edition-secured.pdf
 
 ## Light Greys
 
-| Color value    | Font color utility   | Background color utility |
-|:---------------|:---------------------|:-------------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000"></span> `grey-lt-000` | `.text-grey-lt-000` | `.bg-grey-lt-000` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-100"></span> `grey-lt-100` | `.text-grey-lt-100` | `.bg-grey-lt-100` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-200"></span> `grey-lt-200` | `.text-grey-lt-200` | `.bg-grey-lt-200` |
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300"></span> `grey-lt-300` | `.text-grey-lt-300` | `.bg-grey-lt-300` |
+| Procedure    | Understand   | Perform |
+|:---------------|:---------------------:|:-------------------------:|
+| Abdominal sacrocolpopexy | X |   |
+| Pudendal block | X |   |
+| Anoscopy | X |   |
+| Colectomy (partial or total) | X |   |
+| Colostomy | X |   |
+| Colpocleisis | X | X |
+| Anterior colporraphy | X | X |
+| Urethropexy | X | X |
+| Posterior colporraphy | X | X |
+| Colposuspension | X | X |
+| Complete physical examiation | X | X |
+| Culdoplasty | X | X |
+| Simple cystometrics | X | X |
+| Cystotomy repair | X | X |
+| Cystoscopy | X | X |
+| Enterocele repair | X | X |
+| Enterotomy repair | X | X |
+| *Fistula repair | X |   |
+| Hernia repair (incisional) | X | X |
+| **Hysterectomy | X | X |
+| Incision of vaginal septum | X | X |
+| Lysis of adhesions | X | X |
+| Paravaginal repair | X |   |
+| Perineoplasty | X | X |
+| Perineorraphy | X | X |
+| Pessary fitting | X | X |
+|  | X |   |
+|  | X |   |
+|  | X |   |
+
+* enterocutaneous, rectovagina, ureterovaginal, urethrovaginal, vesicovaginal
+
+** vaginal, laparoscopic, laparoscopic assisted vaginal
+
 
 ## Dark Greys
 
