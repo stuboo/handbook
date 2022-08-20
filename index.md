@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "A guide to the IU PGY-2 urogynecology rotation."
 permalink: /
 ---
 
@@ -36,37 +36,16 @@ I'm an osteopathic physician who did medical school in southwest Virginia and we
 
 I spent two years in private practice after leaving fellowship. During that time, I developed an interest in the business of medicine, revenue cycle management, operational efficiency, and EMR (EPIC) optimization.
 
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ---
 
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+## About this site
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+If you find or think of something that should be on this site that isn't, send me a text message or email and I'll get it added ASAP. I want this to be a useful tool for you and your co-residents on and off service. 
 
-#### Thank you to the contributors of Just the Docs!
+### Credits & License
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
+This site is built with [Jekyll](https://jekyllrb.com/) using the [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme.
+Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt) and is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
