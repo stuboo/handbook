@@ -2,7 +2,7 @@
 layout: default
 title: Patient Education
 nav_order: 6
-has_children: false
+has_children: true
 permalink: docs/patient-education
 ---
 
@@ -14,5 +14,10 @@ There are, however, custom documents that we will use postoperatively so that po
 
 |Title|Dot Phrase|
 |:----|:---------|
-|Pain Control after Vaginal Surgery|.jrs-pcvs|
-|How to Contact Indiana University Urogynecology|.jrs-contact|
+|Pain Control after Surgery|.jrs-edu-pain|
+|How to Contact Indiana University Urogynecology|.jrs-edu-contact|
+|Bowel Function after Surgery|.jrs-edu-bowel|
+|After Urethral Bulking|.jrs-edu-abulking|
+|After Laparoscopic Surgery|.jrs-edu-als|
+|After Vaginal Surgery|.jrs-edu.avs|
+|After Sacral Neuromodulation Surgery|.jrs-edu-asnm|
