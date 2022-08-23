@@ -27,6 +27,8 @@ I (or a fellow) will do the operative notes for procedures that I perform (and y
 ---
 
 ### Stage One
+{: .no_toc }
+
 After surgical consent was reviewed with the patient, including risks, benefits and alternatives, the patient expressed desire to proceed with surgery. She was placed in the sitting position and the location for INS placement was identified and marked bilaterally by measuring approximately 4cm below the posterior Iliac crest such that the neurostimulator would sit in the hollow if the ilium. The patient was asked to reach around with their hand to ensure this was a comfortable location to place the charging puck. 
 
 The patient was then taken to the operating room and placed in the prone position.  Pillows were placed in the lower abdomen and hips to level and flatten the sacrum and allow the toes to dangle freely. Intravenous antibiotics were infused for infection prophylaxis. A ground pad was placed on the bottom of the patient’s foot and was connected to the Clinician Programmer along with the test stimulation cable (J-hook). 
@@ -46,8 +48,10 @@ A tunneling tool with an overlying plastic sheath was inserted from the lead ins
 Instrument, sponge, and needle counts were correct.
 
 ### Stage Two
+{: .no_toc }
+
 #### Rechargeable
-{: .text-delta }
+{: .text-delta .no_toc}
 After surgical consent was reviewed with the patient, including risks, benefits and alternatives, the patient expressed desire to proceed with surgery. The patient was then taken to the operating room and placed in the prone position. Pillows were placed in the lower abdomen and hips to level and flatten the sacrum and allow the toes to dangle freely. Intravenous antibiotics were infused for infection prophylaxis. MAC anesthesia was induced. 
 
 Attention was turned to placement of the neurostimulator. The prior incision was identified and local anesthesia administered. A 2.5 cm incision was made over the prior incision and the connection of the lead wire to the percutaneous extension was identified and exteriorized through the incision. The torque wrench was used to disconnect the percutaneous extension from the lead wire. The percutaneous extension connector was cut off and the wire was removed by pulling from the exit point. The INS pocket was created using combination of sharp and blunt dissection, maintaining the depth of 2 cm. The lead wire was connected to the neurostimulator and secured with the torque wrench. The neurostimulator was placed into the pocket with ceramic window placed laterally and the lead connection placed superiorly. Any excessive lead was coiled and placed behind the neurostimulator. Impedances were confirmed to be within normal limits. 
@@ -57,7 +61,7 @@ The incisions were irrigated with sterile water and the INS incision was closed 
 Instrument, sponge, and needle counts were correct.
 
 #### Non-Rechargeable
-{: .text-delta }
+{: .text-delta .no_toc}
 After surgical consent was reviewed with the patient, including risks, benefits and alternatives, the patient expressed desire to proceed with surgery. The patient was then taken to the operating room and placed in the prone position. Pillows were placed in the lower abdomen and hips to level and flatten the sacrum and allow the toes to dangle freely. Intravenous antibiotics were infused for infection prophylaxis. MAC anesthesia was induced. 
 
 Attention was turned to placement of the neurostimulator. The prior incision was identified, and local anesthesia administered. A 2.5 cm incision was made over the prior incision, and the incision was extended medially up to 4 cm. The connection of the lead wire to the percutaneous extension was identified and exteriorized through the incision. The torque wrench was used to disconnect the percutaneous extension from the lead wire. The percutaneous extension connector was cut off and the wire was removed by pulling from the exit point. The INS pocket was created such that 1/3 of the INS was above the incision and 2/3 below so that the incisions would be over the flat portion of the INS. This was accomplished using combination of sharp and blunt dissection, maintaining the depth of 2-3 cm. The lead wire was connected to the neurostimulator and secured with the torque wrench. The neurostimulator was placed into the pocket with the lead connection placed superiorly and laterally. Any excessive lead was coiled and placed behind the neurostimulator. Impedances were confirmed to be within normal limits. 
@@ -67,6 +71,7 @@ The pocket was irrigated with sterile water and the INS incision was closed with
 Instrument, sponge, and needle counts were correct.
 
 ### Full Implant
+{: .no_toc}
 
 ## Postoperative Considerations
 
@@ -80,7 +85,10 @@ Instrument, sponge, and needle counts were correct.
 
 ## Patient Education
 ### Preop
+{: .no_toc }
+
 ### Postop
+{: .no_toc }
 
 ## Implants &amp; Devices
 * [Axonics R15 Rechargeable SNM System](https://www.axonics.com/hcp/axonics-system/rechargeable-snm)

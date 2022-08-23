@@ -24,6 +24,7 @@ I (or a fellow) will do the operative notes for procedures that I perform (and y
 
 ---
 ### Retropubic Sling
+{: .no_toc }
 
 After informed consent was obtained, the patient was taken to the operating room with IV fluids running. Anesthesia was achieved without difficulty. She was placed in the dorsal lithotomy position in Allen type stirrups. She was prepped and draped in the normal sterile fashion. A surgical timeout was performed. The bladder was then drained using a 16 Fr catheter. The midline pubic symphysis was identified and the eventual trocar exit points were marked at the superior ridge of the pubic symphysis 1.5cm from the midline bilaterally. A spinal needle was then inserted and 60mL of dilute (1:800,000) epinephrine solution was injected posterior to the pubic bone and lateral to the urethra and bladder in order to hydrodissect the space of Retzius.
    
@@ -34,10 +35,11 @@ A one and a half centimeter incision was made vertically at mid urethra level th
 The sling was then pulled up to a point lying loosely under the urethra that freely admitted the base of a mayo scissors clamp. The plastic sheaths were removed. The ends of the sling were cut at the skin level at the lower abdomen exit points and the skin was elevated to cover the remaining mesh. The skin punctures were closed with dermabond. The vaginal epithelium was closed in two layers, first with a horizontal mattress suture of 2-0 vicryl followed by a running 2-0 vicryl running stitch. The bladder was backfilled with 100mL of fluid and the catheter was removed. The patient was awakened from anesthesia without complications and transferred to the post anesthesia care unit (PACU). The patient arrived to the PACU in stable condition and without complications.
 
 ### Single Incision Sling
+{: .no_toc }
 
 After informed consent was obtained, the patient was taken to the operating room with IV fluids running.  She underwent induction of anesthesia without difficulty.  She was placed in lithotomy position in Allen type stirrups and was prepped and draped in the normal sterile fashion.
 
-A surgical timeout was performed and a Foley catheter was placed in the bladder.  Markings were made along a horizontal line at the level of the clitoris to mark the eventual target sites of the single incision sling.  Allis clamps were then used to grasp the suburethral vaginal tissue to demarcate the location of the mid urethra.  I then injected a dilute solution of epinephrine and saline along this suburethral space and carried the hydrodissection out laterally toward the obturator internus muscle with special attention to be full-thickness, especially at the level of the vaginal fornices.
+A surgical timeout was performed and a Foley catheter was placed in the bladder. A self-retaining vaginal retractor was then placed.  Markings were made along a horizontal line at the level of the clitoris to mark the eventual target sites of the single incision sling.  Allis clamps were then used to grasp the suburethral vaginal tissue to demarcate the location of the mid urethra.  I then injected a dilute solution of epinephrine and saline along this suburethral space and carried the hydrodissection out laterally toward the obturator internus muscle with special attention to be full-thickness, especially at the level of the vaginal fornices.
 
 A 2 cm skin incision was then made under the urethra and Metzenbaum scissors were used to dissect the path of the trocar.  The site of placement was palpated with the surgeon's index finger and the sling was deployed on the patient's right.  The handle was at a 45 degree angle and cephalad drift was used to prevent interaction of the trocar tip with the inferior pubic ramus.  The exact procedure was carried out on the patient's left.  Cystoscopy was then performed. The bladder was filled to complete distension. It was examined in a clock-like and sysematic fashion from dome to bladder neck. There was no evidence of stone, foreign body, or malignancy. The urethra was normal on withdrawal of the cystoscope. The tensioning suture was then used to tension the sling to a point where the mesh was in direct apposition with the underlying suburethral tissue.  The tensioning suture was then trimmed, the wound was irrigated, and the skin was closed in 2 layers using 2-0 Vicryl suture.  Packing was placed in the vagina.  The bladder was backfilled with 100 mL of fluid to allow for postoperative voiding trial.
 
@@ -54,6 +56,8 @@ The patient tolerated the procedure well. Instrument, sponge, and needle counts 
 
 ## Patient Education
 ### Preop
+{: .no_toc }
+
 * [Voices for PFD (AUGS) - Midurethral Sling for Stress Urinary Incontinence](https://www.voicesforpfd.org/assets/2/6/Mid-urethral_Sling.pdf)
 * [Your Pelvic Floor (IUGA) - Mid-urethral Sling (MUS) Procedures for Stress Incontinence](https://www.yourpelvicfloor.org/media/mid-urethal-sling-english.pdf)
 * [Mesh Sling for Stress Urinary Incontinence - PreOp Patient Education [VIDEO]](https://youtu.be/0hDH_mmm-C4)
@@ -61,7 +65,10 @@ The patient tolerated the procedure well. Instrument, sponge, and needle counts 
 * [Considerations about Surgical Mesh for SUI (FDA)](https://www.fda.gov/medical-devices/urogynecologic-surgical-mesh-implants/considerations-about-surgical-mesh-sui)
 
 ### Postop
-* [Pain Control after Vaginal Surgery](#)
+{: .no_toc }
+
+NOTE: enter the dot-phrases that patients who get this procedure should have in their postop instructions.
+
 
 ## Implants &amp; Devices
 * [Boston Scientific Advantage Fit&trade; Transvaginal Mid-Urethral Sling System](https://www.bostonscientific.com/en-US/products/mid-urethral-slings/advantage-fit.html)

@@ -48,7 +48,10 @@ Patient was given instruction to contact the office if she had any difficulty ur
 
 ## Patient Education
 ### Preop
+{: .no_toc }
+
 ### Postop
+{: .no_toc }
 
 ## Implants &amp; Devices
 * [BULKAMID&reg;](https://bulkamid.com/en-US/professionals)

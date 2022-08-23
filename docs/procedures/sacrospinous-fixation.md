@@ -22,6 +22,7 @@ parent: Procedures
 I (or a fellow) will do the operative notes for procedures that I perform (and you assist). These notes are included here so that you can read about the procedure before we get to the OR - allowing you to familiarize yourself with both the steps of the procedure and nuances/dogma of my technique compared to another surgeon's that you may have seen in the past. As you read the note, consider the instruments and anatomy. Consider how we maximize exposure and where the high risk portions of the procedure lie. Bonus points if you can customize the risk to the patients and their anatomy/history.
 
 ### Posterior Approach
+{: .no_toc }
 
 After informed consent was obtained, the patient was taken to the operating room where she was placed in the dorsal supine position. She then underwent uncomplicated induction of general anesthesia. She was repositioned in the dorsal lithotomy with her legs in yellow fin stirrups. She was prepared and draped in a normal sterile fashion. A surgical timeout was performed and a Foley catheter was inserted into the bladder. 
 
@@ -38,12 +39,16 @@ Attention was then turned to the posterior repair following the injection in the
 Sponge, lap, and needle counts were correct x2. The patient tolerated the procedure well, was taken to the recovery room in stable condition. 
 
 ### Anterior Approach
+{: .no_toc }
 
 ## Postoperative Considerations
 
 ## Patient Education
 ### Preop
+{: .no_toc }
+
 ### Postop
+{: .no_toc }
 
 ## Implants &amp; Devices
 * [Boston Scientific Capio&trade; SLIM Suture Capturing Device](https://www.bostonscientific.com/en-US/products/pelvic-floor-reconstruction/capio-slim.html)

@@ -48,9 +48,20 @@ Sponge, lap, and needle counts were correct. The patient tolerated the procedure
 
 ## Postoperative Considerations
 
+|**Follow Up**|6 Weeks|
+|**Voiding Requirements**|Passive Voiding Trial, PVR < 150mL|
+|**Opioids**|AS NEEDED: Oxycodone 5mg PO Q6H #10|
+|**Pain Control**|SCHEDULED: 1g acetaminophen and 600mg ibuprofen Q6H x 4 days, ALTERNATE |
+|**Precautions**|Urinary tract infection, Urinary retention, Bleeding|
+|**Restrictions**|Pelvic Rest x 6 weeks, No submersion x 2 weeks, Resume other activity slowly and as tolerated|
+
 ## Patient Education
 ### Preop
+{: .no_toc }
+
 ### Postop
+{: .no_toc }
+
 
 ## Implants &amp; Devices
 * [Coloplast Restorelle&reg; Y Mesh](https://www.coloplast.us/restorelle-y-en-us.aspx#section=product-description_3)

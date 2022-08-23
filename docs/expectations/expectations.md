@@ -124,6 +124,14 @@ The following urogynecology-relevant items are taken directly from the [CREOG Le
 - Position the patient. Know the most common injuries, their presentations, and treatment.
 - Teach (and remind me to teach) the medical students the basics of [uro]gyn surgery.
 - Ask for guidance if you are uncertain of your role. You will almost always be the first assistant.
+- Remember Halstead's Principles
+	- Gentle handling of tissue
+	- Meticulous haemostasis
+	- Preservation of blood supply
+	- Strict aseptic technique
+	- Minimum tension on tissues
+	- Accurate tissue apposition
+	- Obliteration of deadspace
 
 ### Postoperatively
 

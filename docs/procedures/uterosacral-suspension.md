@@ -22,7 +22,7 @@ parent: Procedures
 I (or a fellow) will do the operative notes for procedures that I perform (and you assist). These notes are included here so that you can read about the procedure before we get to the OR - allowing you to familiarize yourself with both the steps of the procedure and nuances/dogma of my technique compared to another surgeon's that you may have seen in the past. As you read the note, consider the instruments and anatomy. Consider how we maximize exposure and where the high risk portions of the procedure lie. Bonus points if you can customize the risk to the patients and their anatomy/history.
 
 #### See Also: [Vaginal Hysterectomy](../vaginal-hysterectomy)
-{: .text-delta}
+{: .text-delta .no_toc}
 ---
 After informed consent was obtained, the patient was taken to the operating room where she was placed in the dorsal supine position. She then underwent uncomplicated induction of general endotracheal anesthesia. She was repositioned in dorsal lithotomy with her legs in yellow fin stirrups. She was prepared and draped in a normal sterile fashion. A surgical timeout was performed. A Foley catheter was inserted into the bladder and the vaginal Bookwalter was set up to aid in retraction. 
 
@@ -55,5 +55,9 @@ Sponge, lap, and needle counts were correct. The patient tolerated the procedure
 ## Postoperative Considerations
 
 ## Patient Education
+
 ### Preop
+{: .no_toc }
+
 ### Postop
+{: .no_toc }
