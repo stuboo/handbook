@@ -74,3 +74,40 @@ NOTE: enter the dot-phrases that patients who get this procedure should have in 
 * [Boston Scientific Advantage Fit&trade; Transvaginal Mid-Urethral Sling System](https://www.bostonscientific.com/en-US/products/mid-urethral-slings/advantage-fit.html)
 * [Coloplast Altis&reg; Single Incision Mid-Urethral Sling](https://www.coloplast.us/altis-en-us.aspx#section=product-description_3)
 
+
+## Instruments
+
+### Retropubic Sling
+{: .no_toc }
+
+* Foley catheter (16fr, no bag)
+* Marking pen
+* 60cc syringe with 18ga spinal needle
+	* filled with a 1:800,000 solution of epinephrine in normal saline
+* Allis clamp x 4
+* Kelly clamp x 2
+* Knife handle with #15 blade
+* Metzenbaum scissors
+* Cystoscopy
+	* Camera & light cord
+	* 17fr sheath
+	* 70-degree cystoscope with bridge
+* Jackson retractor
+* Needle holder
+* Rat tooth forcep
+* Adson forcep
+* Disposables
+	* Suction tubing & Yankauer
+	* 3/4 sheet
+	* under buttock drape
+	* leg drapes
+	* 1/2 sheet
+	* 2-0 vicryl SH x 1
+	* Dermabond
+	* [Boston Scientific Advantage Fit&trade; Transvaginal Mid-Urethral Sling System](https://www.bostonscientific.com/en-US/products/mid-urethral-slings/advantage-fit.html)
+
+### Single Incision Sling
+{: .no_toc }
+
+* Same as above PLUS [Lone Star 3304G](https://cdn.shopify.com/s/files/1/0007/0510/1881/products/110265_usn_36836c92-fe63-40f0-97c8-b75b24b68d25_452x452.jpg?v=1599219725) self-retaining retractor with [SHARP hooks](https://d247lz6b6oc5j.cloudfront.net/images/thumbnails/640/524/detailed/547/ns10003898-cooper-surgical-3311-8g-lone-star-elastic-stays-5mm-sharp-hook-8.jpeg?t=1617588391)
+* [Coloplast Altis&reg; Single Incision Mid-Urethral Sling](https://www.coloplast.us/altis-en-us.aspx#section=product-description_3)

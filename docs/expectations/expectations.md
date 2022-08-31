@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Expectations
-nav_order: 2
+nav_order: 3
 has_children: false
 permalink: docs/expectations
 ---
@@ -12,6 +12,8 @@ Above all else, I expect you to be kind and engaged.
 {: .fs-6 .fw-300 }
 
 The expectations below are divided into three categories: [clinical](#clinical), [educational](#educational), and [professional](#professional). It is my job to make sure that the clinical and educational sections overlap as much as possible and I will strive to make the balance of this rotation lean more toward education than to service. If you feel that I am not meeting this goal, please let me know - without worry of judgement or retribution.
+
+_If you plan to take vacation while on rotation with us, please let me know ASAP so we can plan accordingly._
 
 ## Educational ##
 The following urogynecology-relevant items are taken directly from the [CREOG Learning Objectives, 12th Edition](https://www.acog.org/-/media/project/acog/acogorg/files/creog/creog-educational-objectives-12th-edition-secured.pdf). **I encourage you to read this entire document a couple of times per year to remind yourself of the depth and breadth of information there is to learn across all specialties (and to focus your reading/studying).**
@@ -71,7 +73,7 @@ The following urogynecology-relevant items are taken directly from the [CREOG Le
 | Paravaginal repair | X |   |
 | Perineoplasty | X | X |
 | Perineorraphy | X | X |
-| Pessary fitting | X | X |
+| Pessary fitting<br />[IUGA Podcast S4E3](https://soundcloud.com/user-626772099/iuga-podcast-season-4-episod-3-pessaries-part-i-practical-use?si=93402b25aa8a4a6985bfe05e8422782e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | X | X |
 | Trachelectomy | X |   |
 | Trigger point injection | X |   |
 | Ureteral reimplantation | X |   |

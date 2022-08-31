@@ -4,6 +4,7 @@ title: Patient Education
 nav_order: 6
 has_children: true
 permalink: docs/patient-education
+has_toc: false
 ---
 
 # Patient Education
