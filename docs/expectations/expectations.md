@@ -16,6 +16,11 @@ The expectations below are divided into three categories: [clinical](#clinical),
 _If you plan to take vacation while on rotation with us, please let me know ASAP so we can plan accordingly._
 
 ## Educational ##
+
+Regular [reading](../assets), focused on future or recent patients/diagnoses, will serve you very well in the rotation. This type of preparation will show your commitment to learning and your level of engagement which, in turn, will lead to me giving you more responsibility and direct teaching.
+
+Additionally, we expect that you attend didactic sessions and multidisciplinary conferences while on this service. One large benefit of subspecialty rotations is to learn _how specialists think_. These sessions/conferences will go a long way to meet that objective.
+
 The following urogynecology-relevant items are taken directly from the [CREOG Learning Objectives, 12th Edition](https://www.acog.org/-/media/project/acog/acogorg/files/creog/creog-educational-objectives-12th-edition-secured.pdf). **I encourage you to read this entire document a couple of times per year to remind yourself of the depth and breadth of information there is to learn across all specialties (and to focus your reading/studying).**
 
 - List risk factors of, diagnose, and perform initial management of the following obstetric complications:
