@@ -58,6 +58,7 @@ Attention was then turned to the posterior repair following the injection in the
 Sponge, lap, and needle counts were correct x2. The patient tolerated the procedure well, was taken to the recovery room in stable condition. 
 
 ## Postoperative Considerations
+
 |**Follow Up**|6 Weeks|
 |**Voiding Requirements**|Passive Voiding Trial, PVR < 150mL|
 |**Opioids**|AS NEEDED: Oxycodone 5mg PO Q6H #10|
