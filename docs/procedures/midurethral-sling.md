@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Midurethral Sling - IU Urogynecology Resident Handbook
+title: Midurethral Sling
 parent: Procedures
 ---
 
@@ -67,8 +67,17 @@ The patient tolerated the procedure well. Instrument, sponge, and needle counts 
 ### Postop
 {: .no_toc }
 
-NOTE: enter the dot-phrases that patients who get this procedure should have in their postop instructions.
+Patient Education
+{: .no_toc .text-delta }
+Cerner > Discharge Tab > Patient Education > Custom
+* Stewart - Sling Postop (Custom)
+* Stewart - Postop Pain Control (Custom)
+* Stewart - Contacting IU Urogyn (Custom)
+* ANY/ALL LEAFLETS FOR PRESCRIBED MEDICATIONS
 
+Patient Instructions
+{: .no_toc .text-delta }
+`.jrs-postop-sling`
 
 ## Implants &amp; Devices
 * [Boston Scientific Advantage Fit&trade; Transvaginal Mid-Urethral Sling System](https://www.bostonscientific.com/en-US/products/mid-urethral-slings/advantage-fit.html)
