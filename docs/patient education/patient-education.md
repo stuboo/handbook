@@ -15,10 +15,11 @@ There are, however, custom documents that we will use postoperatively so that po
 
 |Title|Dot Phrase|
 |:----|:---------|
-|Pain Control after Surgery|.jrs-edu-pain|
+|[Pain Control after Surgery](../docs/patient%20education/pain-control/)|.jrs-edu-pain|
 |How to Contact Indiana University Urogynecology|.jrs-edu-contact|
 |Bowel Function after Surgery|.jrs-edu-bowel|
 |After Urethral Bulking|.jrs-edu-abulking|
 |After Laparoscopic Surgery|.jrs-edu-als|
 |After Vaginal Surgery|.jrs-edu.avs|
+|After Suburethral Sling Surgery|.jrs-edu.asling|
 |After Sacral Neuromodulation Surgery|.jrs-edu-asnm|

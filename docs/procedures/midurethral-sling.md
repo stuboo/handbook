@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Midurethral Sling
+title: Midurethral Sling - IU Urogynecology Resident Handbook
 parent: Procedures
 ---
 

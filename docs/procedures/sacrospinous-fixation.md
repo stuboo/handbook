@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sacrospinous Ligament Fixation
+title: Sacrospinous Ligament Fixation - IU Urogynecology Resident Handbook
 parent: Procedures
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: IU Urogynecology Resident Handbook
 nav_order: 1
 description: "A guide to the IU PGY-2 urogynecology rotation."
 permalink: /
