@@ -44,19 +44,40 @@ We then removed the vaginal packing and sequentially tied down all 3 sets of ute
 
 _ SLING GOES HERE IF APPLICABLE
 
-_
-
 Attention was then turned to the posterior repair following the injection in the perineal body and posterior vaginal wall with 1:800,000 dilute epinephrine solution. An inverted triangular incision was made along the perineal body and carried up to the posterior vaginal wall. The vaginal epithelium was dissected off the underlying endopelvic connective tissue in the midline using the Metzenbaum scissors. The excess vaginal epithelium was excised. The epithelium and underlying tissue was plicated in the midline using an 0 Vicryl. We then dissected out laterally to reach the fascia of the levator muscles at the level of the hymen. This was plicated in the midline using 0 Vicryl in an interrupted fashion. We then reapproximated the perineal body using a 0 Vicryl in an interrupted fashion. The perineal skin was then reapproximated using a 3-0 Vicryl in a running subcuticular fashion.
 
 Sponge, lap, and needle counts were correct. The patient tolerated the procedure well, and was taken to the recovery room in stable condition. 
 
-
 ## Postoperative Considerations
 
-## Patient Education
+|**Admission**|Observation (< 2 midnights)|
+|**Follow Up**|6 Weeks|
+|**Voiding Requirements**|Passive Voiding Trial, PVR < 150mL|
+|**Opioids**|AS NEEDED: Oxycodone 5mg PO Q6H #6|
+|**Pain Control**|SCHEDULED: 1g acetaminophen and 600mg ibuprofen Q6H x 4 days, ALTERNATE |
+|**Precautions**|Urinary tract infection, Urinary retention, Bleeding|
+|**Restrictions**|Pelvic Rest x 6 weeks, Resume other activity slowly and as tolerated|
 
+## Patient Education
 ### Preop
 {: .no_toc }
 
+* [Voices for PFD (AUGS) - Pelvic Organ Prolapse](https://www.voicesforpfd.org/assets/2/6/POP.pdf)
+* [Voices for PFD (AUGS) - Vagnial Hysterectomy for Pelvic Organ Prolapse](https://www.voicesforpfd.org/assets/2/6/Vaginal_Hysterectomy_for_Prolapse.pdf)
+* [Voices for PFD (AUGS) - Vaginal Suspension Surgery](https://www.voicesforpfd.org/assets/2/6/Vaginal_Suspension_Surgery.pdf)
+
 ### Postop
 {: .no_toc }
+
+Patient Education
+{: .no_toc .text-delta }
+Cerner > Discharge Tab > Patient Education > Custom
+* Stewart - Vaginal Surgery Postop (Custom)
+* Stewart - Sling Postop (Custom) **&larr; IF THE PATIENT ALSO HAD A SLING**
+* Stewart - Postop Pain Control (Custom)
+* Stewart - Contacting IU Urogyn (Custom)
+* ANY/ALL LEAFLETS FOR PRESCRIBED MEDICATIONS
+
+Patient Instructions
+{: .no_toc .text-delta }
+`.jrs-postop-blueplate`
