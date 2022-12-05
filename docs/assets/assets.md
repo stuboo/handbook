@@ -19,4 +19,4 @@ The sections below are simply a respository where I link to articles, books, vid
 
 ## Slides & References from Lectures
 
-* Patient Decision Aids [references](/handbook/assets/text/patient_decision_aids.txt) [slides]()
+* Patient Decision Aids - 09 December 2022 - [references](/handbook/assets/text/patient_decision_aids.txt) & [slides]()
