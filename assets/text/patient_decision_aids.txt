@@ -1,3 +1,11 @@
-one
-two
-three
+1. Say R, Murtagh M, Thomson R. Patients’ preference for involvement in medical decision making: A narrative review. Patient Education and Counseling. 2006;60(2):102-114. doi:10.1016/j.pec.2005.02.003
+2. Ossin DA, Carter EC, Cartwright R, et al. Shared decision-making in urology and female pelvic floor medicine and reconstructive surgery. Nat Rev Urol. 2022;19(3):161-170. doi:10.1038/s41585-021-00551-4
+3. Dr Chris Cates’ EBM Website – Evidence Based Medicine, NNT, Visual Rx & The Cates Plot at Dr Chris Cates EBM Website. Accessed December 5, 2022. https://www.nntonline.net/
+4. Innovation A for C. Stress urinary incontinence: decision aid for women. Agency for Clinical Innovation. Published April 28, 2022. Accessed December 5, 2022. https://aci.health.nsw.gov.au/networks/urology/stress-urinary-incontinence
+5. Elwyn G, Lloyd A, Joseph-Williams N, et al. Option Grids: Shared decision making made easier. Patient Education and Counseling. 2013;90(2):207-212. doi:10.1016/j.pec.2012.06.036
+6. Shared decision-making in medicine. In: Wikipedia. ; 2022. Accessed December 5, 2022. https://en.wikipedia.org/w/index.php?title=Shared_decision-making_in_medicine&oldid=1105303711
+7. Pelvic Organ Prolapse: Should I Have Surgery? Accessed December 5, 2022. https://www.healthwise.net/ohridecisionaid/Content/StdDocument.aspx?DOCHWID=av1031
+8. Patient Decision Aids - Ottawa Hospital Research Institute. Accessed December 5, 2022. https://decisionaid.ohri.ca/
+9. NHS England » Decision support tools. Accessed December 5, 2022. https://www.england.nhs.uk/personalisedcare/shared-decision-making/decision-support-tools/
+10. Wynia MK, Moulton B, Elwyn G. Shared Decision Making And The Use Of Patient Decision Aids. Health Affairs Forefront. doi:10.1377/forefront.20141217.043318
+11. Childress JF, Childress MD. What Does the Evolution From Informed Consent to Shared Decision Making Teach Us About Authority in Health Care? AMA Journal of Ethics. 2020;22(5):423-429. doi:10.1001/amajethics.2020.423
