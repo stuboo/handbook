@@ -16,3 +16,7 @@ The sections below are simply a respository where I link to articles, books, vid
 
 * [Bladder care pathway](/handbook/assets/pdfs/oab-pad.pdf)
 * [Preop counseling tool](/handbook/assets/pdfs/preop_counseling_v4.pdf)
+
+## Slides & References from Lectures
+
+* Patient Decision Aids [references](/handbook/assets/text/patient_decision_aids.txt) [slides]()
