@@ -14,7 +14,9 @@ The sections below are simply a respository where I link to articles, books, vid
 
 ## Care Pathways & Consent Tools
 
-* [Bladder care pathway](/handbook/assets/pdfs/oab-pad.pdf)
+* [Bladder Care Pathway](/handbook/assets/pdfs/bladder_pathway.pdf)
+* [POP Treatment Pathway](/handbook/assets/pdfs/pop_pathway.pdf)
+* [Recurrent UTI Pathway](/handbook/assets/pdfs/ruti_pathway.pdf)
 * [Preop counseling tool](/handbook/assets/pdfs/preop_counseling_v4.pdf)
 
 ## Slides & References from Lectures
