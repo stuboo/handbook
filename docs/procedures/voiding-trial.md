@@ -4,7 +4,7 @@ title: Voiding Trial
 parent: Procedures
 ---
 
-# Urethral Bulking
+# Voiding Trials
 {: .no_toc }
 
 ## Table of contents
