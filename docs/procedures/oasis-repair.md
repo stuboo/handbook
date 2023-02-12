@@ -4,7 +4,7 @@ title: Repair of OASIS
 parent: Procedures
 ---
 
-# Repair of Obstetric Anal Sphincter Injury
+# Repair of Obstetric Anal Sphincter Injury (OASIs)
 {: .no_toc }
 
 ## Table of contents
@@ -28,15 +28,19 @@ A Lone Star retractor was set up to aid in visualization. Copious irrigation was
 We began the repair by identifying the internal anal sphincter and the extent of injury to this layer.  
 
 **IAS REPAIR REQUIRED**
+
 The IAS was found to be injured and was closed in an end-to-end fashion with a running stitch of 3-0 PDS in a cephalad to caudad fashion.
 
 **IAS REPAIR NOT REQUIRED**
+
 The IAS was found to be intact so we turned our attention to the external anal sphincter. 
 
 **COMPLETE EAS LACERATION**
+
 The external anal sphincter was then repaired in an overlapping fashion. Approximately 1.5 cm of sphincter was mobilized bilaterally. 3-0 PDS sutures were then placed posteriorly, inferiorly, superiorly and anteriorly. After all sutures were placed, they were sequentially tied in the above order.
 
 **PARTIAL EAS LACERATION**
+
 The partially lacerated external anal sphincter was then repaired in an end-to-end fashion using *** stitches of 3-0 PDS. 
 
 The vaginal muscularis was reapproximated with 2-0 monocryl and the perineum was reconstructed using 0 monocryl. Vagina epithelium and perineal skin were then closed with 3-0 monocryl. Copious irrigation and evaluation for hemostasis was performed with the closure of each layer.
