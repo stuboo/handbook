@@ -14,19 +14,19 @@ The sections below are simply a respository where I link to articles, books, vid
 
 ## Anki Decks
 
-I'm slowly amassing a collection of [Anki](https://apps.ankiweb.net/) decks related to urogynecology. The decks will be built at the "fellow" learning level. Later, I will add a "resident" tag to those cards that I think are high yield and/or important for residents. For now, if you're choosing from the decks below, start with the anatomy deck.
+I'm slowly amassing a collection of [Anki](https://apps.ankiweb.net/) decks related to urogynecology. The decks will be built at the "fellow" learning level. Later, I will add a "resident" tag to those cards that I think are high yield and/or important for residents. For now, if you're a resident choosing from the decks below, start with the anatomy deck.
 
 ### Walters & Karram Urogynecology and Reconstructive Pelvic Surgery, Fifth Edition
 
-* [1 Anatomy of the lower urinary tract, pelvic floor, and rectum](/handbook/stuboo.github.io/assets/anki/wk/wk01_anatomy.apkg)
-* [2 Embryology and congenital anomalies of the urinary tract, rectum, and female genital system](/handbook/stuboo.github.io/assets/anki/wk/wk02_embryology.apkg)
-* [3 Neurophysiology and pharmacology of the lower urinary tract](/handbook/stuboo.github.io/assets/anki/wk/wk03_neuro-pharm.apkg)
-* [4 Physiology of the pelvic muscles, vagina, and anorectum](/handbook/stuboo.github.io/assets/anki/wk/wk04_physiology.apkg)
-* 5 Pathophysiology of pelvic floor disorders
-* 6 Epidemiology and psychosocial impact of female pelvic floor disorders
-* 7 Synthetic mesh and biologic grafts: Properties and biomechanics
-* 8 Description and classification of lower urinary tract dysfunction and pelvic organ prolapse
-* 9 Evaluation of pelvic floor disorders: History, physical examination, and diagnostic testing
+* [01 Anatomy of the lower urinary tract, pelvic floor, and rectum](/handbook/stuboo.github.io/assets/anki/wk/wk01_anatomy.apkg)
+* [02 Embryology and congenital anomalies of the urinary tract, rectum, and female genital system](/handbook/stuboo.github.io/assets/anki/wk/wk02_embryology.apkg)
+* [03 Neurophysiology and pharmacology of the lower urinary tract](/handbook/stuboo.github.io/assets/anki/wk/wk03_neuro-pharm.apkg)
+* [04 Physiology of the pelvic muscles, vagina, and anorectum](/handbook/stuboo.github.io/assets/anki/wk/wk04_physiology.apkg)
+* 05 Pathophysiology of pelvic floor disorders
+* 06 Epidemiology and psychosocial impact of female pelvic floor disorders
+* 07 Synthetic mesh and biologic grafts: Properties and biomechanics
+* 08 Description and classification of lower urinary tract dysfunction and pelvic organ prolapse
+* 09 Evaluation of pelvic floor disorders: History, physical examination, and diagnostic testing
 * 10 Female sexual function and dysfunction: Assessment and treatment
 * 11 Urodynamics: Indications, techniques, interpretation, and clinical utility
 * 12 Endoscopic assessment of the lower urinary tract

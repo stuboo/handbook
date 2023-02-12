@@ -15,6 +15,10 @@ parent: Assets
 
 ---
 
+## Ruth Lilly Medical Library
+
+* [AnatomyTV](https://iupui.libguides.com/anatomytv) - excellent resource for female pelvic anatomy including quizzes. 
+
 ## Pearls of Exxcellence
 
 |[Urodynamics: Indications for the Procedure and Systematic Interpretation](https://www.exxcellence.org/list-of-pearls/urodynamics-indications-for-the-procedure-and-systematic-interpretation/)<br />Jaclyn Nunziato, MS, MD|
