@@ -27,16 +27,16 @@ A Lone Star retractor was set up to aid in visualization. Copious irrigation was
 
 We began the repair by identifying the internal anal sphincter and the extent of injury to this layer.  
 
-*** IAS REPAIR REQUIRED ***
+**IAS REPAIR REQUIRED**
 The IAS was found to be injured and was closed in an end-to-end fashion with a running stitch of 3-0 PDS in a cephalad to caudad fashion.
 
-*** IAS REPAIR NOT REQUIRED ***
+**IAS REPAIR NOT REQUIRED**
 The IAS was found to be intact so we turned our attention to the external anal sphincter. 
 
-*** COMPLETE EAS LACERATION ***
+**COMPLETE EAS LACERATION**
 The external anal sphincter was then repaired in an overlapping fashion. Approximately 1.5 cm of sphincter was mobilized bilaterally. 3-0 PDS sutures were then placed posteriorly, inferiorly, superiorly and anteriorly. After all sutures were placed, they were sequentially tied in the above order.
 
-*** PARTIAL EAS LACERATION ***
+**PARTIAL EAS LACERATION**
 The partially lacerated external anal sphincter was then repaired in an end-to-end fashion using *** stitches of 3-0 PDS. 
 
 The vaginal muscularis was reapproximated with 2-0 monocryl and the perineum was reconstructed using 0 monocryl. Vagina epithelium and perineal skin were then closed with 3-0 monocryl. Copious irrigation and evaluation for hemostasis was performed with the closure of each layer.
@@ -54,20 +54,6 @@ We began the repair by identifying the margins of the anal mucosa and the apex o
 Sponge, lap, and needle counts were correct x2. The patient tolerated the procedure well, and was taken to the recovery room in stable condition. 
 
 ## Postoperative Considerations
-
-|**Follow Up**|6 Weeks|
-|**Voiding Requirements**|Passive Voiding Trial, PVR < 150mL|
-|**Opioids**|AS NEEDED: Oxycodone 5mg PO Q6H #10|
-|**Pain Control**|SCHEDULED: 1g acetaminophen and 600mg ibuprofen Q6H x 4 days, ALTERNATE|
-|**Precautions**|Urinary tract infection, Urinary retention, Bleeding, Avoid constipation|
-|**Restrictions**|Pelvic Rest x 6 weeks, Resume other activity slowly and as tolerated|
-
-Patients undergoing SSLF will often feel buttock pain/discomfort for a few weeks to a few months. It should improve with time. Patients with radicular buttock/leg pain immediately postop require a return to the OR for revision. Do you recall which nerve(s) travel deep to the sacrospinous ligament?
-
-As with any prolapse surgery, efforts to avoid constipation are critical (both for pain control and durability of the procedure). Perioperative counseling should address this. I typically recommend patients take 17g MiraLAX daily and decrease the dose as needed to avoid diarrhea. Addition of docusate is often appreciated by patients.
-
-
-## Postop Care
 {: .no_toc }
 * Voiding trial on postop day #1 to evaluate for urinary retention
 * NSAIDs and ice packs decrease opioid use
@@ -76,23 +62,27 @@ As with any prolapse surgery, efforts to avoid constipation are critical (both f
 * Evaluate in the office 1-2 weeks postop
 
 ## Supplies
-{: .no_toc }
 #### Operating Room
+{: .no_toc }
 * non-negotiable
 
 #### Anesthesia
+{: .no_toc }
 * regional or general
 
 #### Antibiotics
+{: .no_toc }
 * 2 g cefazolin (preferred)
 * 900 mg clindamycin
 
 #### Prep & Drape
+{: .no_toc }
 * 4% chlorhexidine solution
 * lithotomy in boots
 * Foley catheter
 
 #### Instruments
+{: .no_toc }
 * vaginal hysterectomy or pelvic floor set
 * EEA sizers or Lucite rods
 * 2L NS irrigation
@@ -100,12 +90,15 @@ As with any prolapse surgery, efforts to avoid constipation are critical (both f
 * foley catheter
 
 #### Injectables
+{: .no_toc }
 * bupivicaine with or without epi (whatever concentration is available)
 
 #### Retraction
+{: .no_toc }
 * Lone Star 3340G retractor with SHARP hooks
 
 #### Suture
+{: .no_toc }
 * Anal Mucosa = 4-0 Monocryl SH x 2
 * IAS & EAS = 3-0 PDS SH x 6
 * Vaginal Muscularis = 2-0 Monocryl x 3
@@ -114,6 +107,7 @@ As with any prolapse surgery, efforts to avoid constipation are critical (both f
 
 
 ## Case Preparation
+{: .no_toc }
 ### Start Here
 {: .no_toc }
 * [Techniques for Repair of Obstetric Anal Sphincter Injuries](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5788295/)
