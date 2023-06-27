@@ -21,4 +21,4 @@ permalink: docs/schedule
 |2/12|3/17|Merriweather|
 |3/18|4/21|Henderson|
 |4/22|5/68|Santana-Ufret|
-|5/27|6/30|Bynarowicz|
+|5/27|6/30|Bynarowicz |
