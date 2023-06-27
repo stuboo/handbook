@@ -97,12 +97,11 @@ The following urogynecology-relevant items are taken directly from the [CREOG Le
 ## Clinical ##
 
 ### In the Office
-- Review charts prior to the office day and pick HALF of the new patients that you want to see
-	- This is a pilot program - we'll see how it changes with time
+- Review charts prior to the office day focusing on the new patients.
 - Read about the conditions you expect to encounter in these patients.
 - Review the new patient paperwork, new data (PVR, uroflow), and take the patient's history
+	- Place orders for uroflow (51741) and bladder scan (51798)
 - We'll do exams together.
-	- I'll probably do them the first half of your rotation and you will do the second half.
 - Do your best to develop a plan.
 
 ### Preoperatively
@@ -142,7 +141,10 @@ The following urogynecology-relevant items are taken directly from the [CREOG Le
 
 ### Postoperatively
 
+_NOTE: Order sets are NOT a substitute for thinking. If a patient has CKD or is > 65yo, NSAIDS are probably a bad idea. If a patient has liver disease, skip the acetaminophen. You get the picture. Order sets are meant to speed things up and ensure that you haven't forgotten important things, but they are not to be used without critical thinking. Use your brain._
+
 - Admission and/or discharge orders
+	- See the _Postoperative Considerations_ [specific to the procedure](../procedures).
 - Discharge medications to pharmacy
 - Discharge summaries when appropriate
 - Patient education materials for pain control, catheter management, and precautions
